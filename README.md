@@ -1,5 +1,3 @@
-# CsvToSqlETL
-
 ## Summary
 The project was successfully completed using:
 - Entity Framework
