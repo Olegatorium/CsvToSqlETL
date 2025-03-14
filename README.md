@@ -35,7 +35,7 @@ Now the project is set up locally and ready for testing.
 
 ### 4. Data Validation
 - The file size is validated to ensure it does not exceed **100 MB**, preventing potential attacks.
-- All CSV data is validated to avoid errors due to incorrect formatting.
+- Validate CSV data to avoid errors due to incorrect formatting.
 
 ### 5. Additional Feature
 - Input data is converted from **ECT (Eastern Time)** to **UTC** when inserting into the database.
